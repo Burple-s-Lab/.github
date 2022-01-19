@@ -1,6 +1,5 @@
 ## Hola 👋
 
-<!--
 
 **Que te ofrece el laboratio:**
 
@@ -8,4 +7,3 @@
 🌈 Ayudar a usuarios
 👩‍💻 Aprender y mucho mas!
 🧙 [Discord](https://discord.gg/Qn4YK36jrt)
--->
